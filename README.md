@@ -1,1 +1,2 @@
-machine learning engineering with python
+Machine learning engineering with python
+Discover >> Play >> Develop >> Deploy
